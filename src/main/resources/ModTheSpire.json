@@ -1,10 +1,10 @@
 {
-  "modId": "DevConsole",
-  "modName": "控制台",
+  "modId": "BetterAnimation",
+  "modName": "更好的动画",
   "modVersion": "1.0",
   "descriptions": {
-    "zhs": ["控制台"],
-    "eng": ["STS android test mod.解锁所有进阶/角色/卡牌"]
+    "zhs": ["给旋风斩和后空翻/杂技增加了动画，搬运自同名mod电脑版"],
+    "eng": ["STS android test mod."]
   },
   "authorList": ["Dieyou"],
   "dependencies": []
